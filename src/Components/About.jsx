@@ -9,9 +9,9 @@ const About = () => {
         <div className="flex flex-col md:flex-row items-center md:space-x-12">
             <img src={Dng} alt="" className="w-72 h-80 rounded object-cover object-top mb-8 md:mb-0"></img>
            <div className='flex-1'>
-           <p className="text-lg mb-8">I am a passionate full-stack developer with a focus on building
-             modern and responsive web application. with a strong foundation in
-             both fronted and backend technologies, i strive to create seamless and efficient user experiences.</p>
+           <p className="text-lg mb-8">I am a passionate Front-End Developer focused on creating modern, responsive, and user-friendly web applications. With a strong foundation in front-end technologies,
+             I aim to deliver smooth and efficient user experiences.Alongside web development, I also have skills in Networking and Graphic Design, which help me combine technical and creative approaches to build complete digital solutions. 
+             My portfolio reflects my commitment to quality, continuous learning, and delivering effective results.</p>
              <div className="space-y-4">
                 <div className="flex items-center">
                     <label htmlFor="htmlandcss" className="w-2/12">React js</label>
@@ -23,6 +23,38 @@ const About = () => {
                 </div>
                 <div className="flex items-center">
                     <label htmlFor="htmlandcss" className="w-2/12">Node js</label>
+                    <div className="grow bg-gray-800 rounded-full h-2.5">
+                        <div className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5
+                         rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12">
+                        </div>
+                    </div>
+                </div>
+                  <div className="flex items-center">
+                    <label htmlFor="htmlandcss" className="w-2/12">Translation eng-french</label>
+                    <div className="grow bg-gray-800 rounded-full h-2.5">
+                        <div className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5
+                         rounded-full transform transition-transform duration-300 hover:scale-105 w-11/12">
+                        </div>
+                    </div>
+                </div>
+                  <div className="flex items-center">
+                    <label htmlFor="htmlandcss" className="w-2/12">Graphic Design</label>
+                    <div className="grow bg-gray-800 rounded-full h-2.5">
+                        <div className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5
+                         rounded-full transform transition-transform duration-300 hover:scale-105 w-11/12">
+                        </div>
+                    </div>
+                </div>
+                <div className="flex items-center">
+                    <label htmlFor="htmlandcss" className="w-2/12">Node js and React js</label>
+                    <div className="grow bg-gray-800 rounded-full h-2.5">
+                        <div className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5
+                         rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12">
+                        </div>
+                    </div>
+                </div>
+                <div className="flex items-center">
+                    <label htmlFor="htmlandcss" className="w-2/12">Networking</label>
                     <div className="grow bg-gray-800 rounded-full h-2.5">
                         <div className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5
                          rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12">

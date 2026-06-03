@@ -11,41 +11,26 @@ const services = [
         title: "Fronted Development",
         description: "Building responsive and interactive user interface",
     },
-    {
+     {
         id: 3,
-        title: "Backend Development",
-        description: "Developing robust server-side logic and databases.",
+        title: "Networking",
+        description: "We do configuration of networks and installation ",
     },
     {
         id: 4,
-        title: "Full-stack Development",
-        description: "Combining both frontend and backend development skills.",
+        title: "Graphic design",
+        description: " bring your imagination to live with the design team",
     },
     {
         id: 5,
-        title: "content writing",
-        description: "Writing content for your business and comapnies",
+        title: "Language translator",
+        description: "We translate all sort of documents from french to english and vise-versa ",
     },
     {
         id: 6,
-        title: "Digital Marketing",
-        description: "Promote your business with our digital marketing team.",
-    },
-    {
-        id: 7,
-        title: "Graphic design",
-        description: "We bring your imagination to live with our design team",
-    },
-    {
-        id: 8,
-        title: "Networking",
-        description: "We do configuration of network and install ",
-    },
-    {
-        id: 9,
         title: "Consultant",
         description: "We give Advice, any inquiry and daily tips About ICT ",
-    },
+    }
 ]
 
 const Service = () => {
