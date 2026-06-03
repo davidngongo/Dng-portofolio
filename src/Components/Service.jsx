@@ -23,7 +23,7 @@ const services = [
     },
     {
         id: 5,
-        title: "Language translator",
+        title: "Language translatorn and Instructor",
         description: "We translate all sort of documents from french to english and vise-versa ",
     },
     {

@@ -1,27 +1,35 @@
 import React from 'react';
 import carrental from "../assets/carrental.jpeg";
+import Elandadvocate from "../assets/Elandadvocate.png";
 
 const Project = [
     {
         id: 1,
-        image: carrental,
-        name:" Elandadvocate, a law farmer in uganda",
+        image: Elandadvocate,
+        name:"Elandadvocate, a law farmer in uganda",
         technologies:"",
-        github:"",
+        github:"https://github.com/davidngongo/eland-advocate",
     },
     {
         id: 2,
         image: carrental,
         name:"Some Design projects",
         technologies:"",
-        github:"",
+        github:"https://github.com/davidngongo/Some-Design",
     },
-    {
+     {
         id: 3,
         image: carrental,
-        name:"French and english translator",
+        name:"Ecommerce Website which allows users to rent cars online",
         technologies:"",
-        github:"",
+        github:"https://github.com/davidngongo/Dng",
+    },
+    {
+        id: 4,
+        image: eng-french-tuto,
+        name:"French and English translator and instructor",
+        technologies:"",
+        github:"#",
     }
 ]
 
