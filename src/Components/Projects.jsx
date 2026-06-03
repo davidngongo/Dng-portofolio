@@ -15,7 +15,7 @@ const Project = [
     {
         id: 2,
         image: design,
-        name:"Professional design using AI(adobe), photoshop and figma",
+        name:"Professional design using AI(adobe), photoshop, canva, and figma",
         technologies:"see more",
         github:"https://github.com/davidngongo/Some-Design",
     },
